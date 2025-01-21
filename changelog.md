@@ -11,3 +11,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added changelog.md
 
+## [0.0.2] - 20-01-2025
+
+### Removed
+
+- Removed arq's
+
+## [0.0.2] - 20-01-2025
+
+### Restored
+
+- Restored arq's
